@@ -26,5 +26,5 @@ See also: [Earlier note](#2026-03-19--notes-on-scientific-ai)
 Some quick thoughts:
 
 - symbolic reasoning matters
-- data is not enough
+- data is not enough - really? 
 - hybrid systems seem promising
