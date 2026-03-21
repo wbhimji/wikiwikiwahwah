@@ -1,4 +1,4 @@
-# Wahid Bhimji — Notes and Essays
+# Wah's notes and essays
 
 Short, informal writing on philosophy, "AI" , physics, computing, tea, biscuits, newspapers, "politics", and maybe sometimes life
 
